@@ -1,4 +1,4 @@
-package cn.bugstack.spring;
+package cn.bugstack.springframework;
 
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;

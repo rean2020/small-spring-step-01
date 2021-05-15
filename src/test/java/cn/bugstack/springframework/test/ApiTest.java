@@ -1,8 +1,8 @@
-package cn.bugstack.spring.test;
+package cn.bugstack.springframework.test;
 
-import cn.bugstack.spring.BeanDefinition;
-import cn.bugstack.spring.BeanFactory;
-import cn.bugstack.spring.test.bean.UserService;
+import cn.bugstack.springframework.BeanDefinition;
+import cn.bugstack.springframework.BeanFactory;
+import cn.bugstack.springframework.test.bean.UserService;
 import org.junit.Test;
 
 /**
